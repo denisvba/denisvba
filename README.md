@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![denisvba's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisvba)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![denisvba's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisvba&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
